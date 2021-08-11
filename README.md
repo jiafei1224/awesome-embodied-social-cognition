@@ -1,1 +1,1 @@
-# awesome-embodied-social-cognition
+# Awesome Embodied Social Cognition
