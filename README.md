@@ -25,6 +25,10 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 *Grgur Kovač, Rémy Portelas, Katja Hofmann, Pierre-Yves Oudeyer* <br>
 NAACL ViGIL Workshop, 2021. [[Paper]](https://arxiv.org/abs/2104.13207) [[Website]](https://sites.google.com/view/socialai01)
 
+* **AGENT: A Benchmark for Core Psychological Reasoning** <br>
+*Tianmin Shu, Abhishek Bhandwaldar, Chuang Gan, Kevin A. Smith, Shari Liu, Dan Gutfreund, Elizabeth Spelke, Joshua B. Tenenbaum, Tomer D. Ullman* <br>
+ICML, 2021. [[Paper]](https://arxiv.org/abs/2102.12321)
+
 * **Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense** <br>
 *Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, Chi Zhang, Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.09044)
