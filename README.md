@@ -1,7 +1,7 @@
 # Awesome Embodied Social Cognition ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 > A curated list of embodied social cognition resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists and and [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision).
 
 By [Samson Yu](https://samsonyubaijian.github.io/) (samson_yu@sutd.edu.sg), Singapore University of Technology and Design, with help from [Duan Jiafei](https://duanjiafei.com/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
