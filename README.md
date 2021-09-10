@@ -21,13 +21,13 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
 
 ## <a name="papers"></a> Papers
-* **Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense** <br>
-*Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, Chi Zhang, Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu* <br>
-arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.09044)
-
 * **SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents** <br>
 *Grgur Kovač, Rémy Portelas, Katja Hofmann, Pierre-Yves Oudeyer* <br>
 NAACL ViGIL Workshop, 2021. [[Paper]](https://arxiv.org/abs/2104.13207) [[Website]](https://sites.google.com/view/socialai01)
+
+* **Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense** <br>
+*Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, Chi Zhang, Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.09044)
 
 ## <a name="datasets"></a> Datasets
 
