@@ -34,4 +34,4 @@ NAACL ViGIL Workshop, 2021. [[Paper]](https://arxiv.org/abs/2104.13207) [[Websit
 ## <a name="resources"></a> Resources
 * **ConceptNet 5.5: An Open Multilingual Graph of General Knowledge** <br>
 *Robyn Speer, Joshua Chin, Catherine Havasi* <br>
-* AAAI, 2017. [[Paper]](https://arxiv.org/abs/1612.03975) [[Website]](https://conceptnet.io/)
+AAAI, 2017. [[Paper]](https://arxiv.org/abs/1612.03975) [[Website]](https://conceptnet.io/)
