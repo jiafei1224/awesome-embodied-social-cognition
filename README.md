@@ -8,6 +8,9 @@ By [Samson Yu](https://samsonyubaijian.github.io/) (samson_yu@sutd.edu.sg), Sing
 ## Table of Content
 
 * [Papers](#papers)
+        * [Machine Learning](#machinelearning)
+        * [Psychology](#psychology)
+        * [Robotics](#robotics)
 * [Datasets](#datasets)
 * [Resources](#resources)
 
