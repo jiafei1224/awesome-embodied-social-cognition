@@ -38,6 +38,11 @@ ICML, 2021. [[Paper]](https://arxiv.org/abs/2102.12321)
 *Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, Chi Zhang, Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.09044)
 
+### <a name="psychology"></a> Robotics
+* **The Development of Embodied Cognition: Six Lessons from Babies** <br>
+*Linda Smith, Michael Gasser* <br>
+Artificial life, 2005. [[Paper]](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)
+
 ### <a name="robotics"></a> Robotics
 * **A Survey on Human-aware Robot Navigation** <br>
 *Ronja Möller, Antonino Furnari, Sebastiano Battiato, Aki Härmä, Giovanni Maria Farinella* <br>
